@@ -1,1 +1,2 @@
-# HTML-CSS-JS
+# Frontend Study
+> HTML + CSS + JavaScript
